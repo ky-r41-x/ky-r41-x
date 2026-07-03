@@ -1,16 +1,42 @@
-## Hi there 👋
+# 
 
-<!--
-**ky-r41-x/ky-r41-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+ _  __ __   __  ____   _  _     _  __
 
-Here are some ideas to get you started:
+| |/ / \ \ / / |  _ \ | || |   / | \ \
+| ' /   \ V /  | |_) || || |_  | |  \ \
+| . \    | |   |  _ < |__   _| | |  / /
+|_|\_\   |_|   |_| \_\   |_|   |_| /_/ 
+      [ GLITCH_SCOPE // 0x_KYRA1 ]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛰️ SYSTEM DIAGNOSTICS
+```ini
+[+] IDENTITY: KY_R41_X
+[+] CLASS:    Glitch Sniper // Ghost Operator
+[+] FIRMWARE: v0x_KYRA1.bin (STATUS: CORRUPT)
+[+] SYSTEM:   Buffer Overflow Detected...
+```
+
+---
+
+### 🎯 COMPILING TARGETS
+- 👁️ **Eagle Eyes:** Analyzing binaries and finding vulnerabilities before compilation.
+- ⚡ **Glitch Shot:** Injecting unpatched zero-day exploits with perfect precision.
+- 📁 **Repository Payload:** Modding, scripting, and reverse engineering digital security.
+
+### 🎛️ CODESPACE STACK
+```text
+  [0x01] C / C++       ===> [Low-Level Memory Exploits]
+  [0x02] Python        ===> [Automation / Payload Delivery]
+  [0x03] Assembly      ===> [Reverse Engineering Weaponry]
+```
+
+---
+
+### ⚠️ WARNING: SYSTEM EXPLOIT IN PROGRESS
+```bash
+\$ nmap -sV -p- target_network.net
+\$ ./ky_r41_x.sh --inject --silent
+[!] BEACON ACTIVATED. TARGET ACQUIRED. 
+```
